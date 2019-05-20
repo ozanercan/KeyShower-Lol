@@ -1,0 +1,29 @@
+C:\Other Files\My Projects\Basılan Tuşu Gösterme\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Other Files\My Projects\Basılan Tuşu Gösterme\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Other Files\My Projects\Basılan Tuşu Gösterme\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Other Files\My Projects\Basılan Tuşu Gösterme\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Other Files\My Projects\Basılan Tuşu Gösterme\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Other Files\My Projects\Basılan Tuşu Gösterme\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Other Files\My Projects\Basılan Tuşu Gösterme\WpfApp1\WpfApp1\bin\Debug\KeyShower - League Of Legends.exe.config
+C:\Other Files\My Projects\Basılan Tuşu Gösterme\WpfApp1\WpfApp1\bin\Debug\KeyShower - League Of Legends.exe
+C:\Other Files\My Projects\Basılan Tuşu Gösterme\WpfApp1\WpfApp1\bin\Debug\KeyShower - League Of Legends.pdb
+C:\Other Files\My Projects\Basılan Tuşu Gösterme\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Other Files\My Projects\Basılan Tuşu Gösterme\WpfApp1\WpfApp1\obj\Debug\KeyShower - League Of Legends_MarkupCompile.cache
+C:\Other Files\My Projects\Basılan Tuşu Gösterme\WpfApp1\WpfApp1\obj\Debug\KeyShower - League Of Legends_MarkupCompile.lref
+C:\Other Files\My Projects\Basılan Tuşu Gösterme\WpfApp1\WpfApp1\obj\Debug\KeyShower - League Of Legends.g.resources
+C:\Other Files\My Projects\Basılan Tuşu Gösterme\WpfApp1\WpfApp1\obj\Debug\KeyShower - League Of Legends.exe
+C:\Other Files\My Projects\Basılan Tuşu Gösterme\WpfApp1\WpfApp1\obj\Debug\KeyShower - League Of Legends.pdb
+C:\Users\Ozan\Desktop\KeyShower-Lol-master\WpfApp1\bin\Debug\KeyShower - League Of Legends.exe.config
+C:\Users\Ozan\Desktop\KeyShower-Lol-master\WpfApp1\bin\Debug\KeyShower - League Of Legends.exe
+C:\Users\Ozan\Desktop\KeyShower-Lol-master\WpfApp1\bin\Debug\KeyShower - League Of Legends.pdb
+C:\Users\Ozan\Desktop\KeyShower-Lol-master\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Ozan\Desktop\KeyShower-Lol-master\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Ozan\Desktop\KeyShower-Lol-master\WpfApp1\obj\Debug\KeyShower - League Of Legends_MarkupCompile.cache
+C:\Users\Ozan\Desktop\KeyShower-Lol-master\WpfApp1\obj\Debug\KeyShower - League Of Legends_MarkupCompile.lref
+C:\Users\Ozan\Desktop\KeyShower-Lol-master\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Ozan\Desktop\KeyShower-Lol-master\WpfApp1\obj\Debug\KeyShower - League Of Legends.g.resources
+C:\Users\Ozan\Desktop\KeyShower-Lol-master\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Ozan\Desktop\KeyShower-Lol-master\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ozan\Desktop\KeyShower-Lol-master\WpfApp1\obj\Debug\KeyShower - League Of Legends.exe
+C:\Users\Ozan\Desktop\KeyShower-Lol-master\WpfApp1\obj\Debug\KeyShower - League Of Legends.pdb
+C:\Users\Ozan\Desktop\KeyShower-Lol-master\WpfApp1\obj\Debug\KeyShower.Properties.Resources.resources
